@@ -542,10 +542,10 @@
           "type": "string",
           "title": "Validierung (experimetelles Feature)",
           "default": "",
-          "enum": ["", "berlinerVerwaltung"],
+          "enum": ["", "Landeskirchenamt"],
           "enumNames": [
             "keine Validierung",
-            "für die Berliner Verwaltung (in Bearbeitung)"
+            "für das Landeskirchenamt (in Bearbeitung)"
           ]
         }
       }
