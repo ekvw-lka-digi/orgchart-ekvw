@@ -23,15 +23,15 @@
 //   "city"
 
 export const validationRules = {
-  berlinerVerwaltung: {
+  Landeskirchenamt: {
     telephone: {
-      pattern: /^\+49 30 /,
+      pattern: /^\+49 521 /,
       warning:
-        'Berliner Fesnetznummer müssen wie folgt beginnen: "+49 30 ". z.B.: +49 30 959996410',
+        'Bielefelder Fesnetznummern müssen wie folgt beginnen: "+49 521 ". z.B.: +49 521 594-0',
     },
     website: {
-      pattern: /^http/,
-      warning: 'Webseiten müssen mit "http" beginnen',
+      pattern: /^https:///,
+      warning: 'Webseiten müssen mit "https://" beginnen',
     },
   },
   test: {},
