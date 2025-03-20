@@ -17,9 +17,9 @@ const InfoModal = (props) => {
         <Container>
           <Row>
             <p>
-              Das Organigramm-Tool hat zum Ziel, die Erstellung der Organigramme
-              der Berliner Verwaltung zu vereinfachen und die Organigramme in
-              ein einheitlicheres und maschinenlesbares Format zu bringen.
+              Der Organigramm Editor hat zum Ziel, die Erstellung der Organigramme
+              in der Evangelischen Kirhce von Westfalen zu vereinfachen und die Organigramme 
+              in ein einheitlicheres und maschinenlesbares Format zu bringen.
             </p>
             <p>
               Es handelt sich derzeit noch um einen ersten Prototypen, es kann
