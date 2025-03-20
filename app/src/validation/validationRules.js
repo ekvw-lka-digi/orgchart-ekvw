@@ -30,7 +30,7 @@ export const validationRules = {
         'Bielefelder Fesnetznummern müssen wie folgt beginnen: "+49 521 ". z.B.: +49 521 594-0',
     },
     website: {
-      pattern: /^https://^\ /,
+      pattern: /^https /,
       warning: 'Webseiten müssen mit "https://" beginnen',
     },
   },
