@@ -646,10 +646,10 @@ const ChartContainer = forwardRef(
                       Bearbeiten
                     </Button>
              
-                    <h1>1_</h1>
+
                     {data.document.title && (
                       <div className="title-content">
-                        <h1>{data.document.title}</h1>
+                        <h3>{data.document.title}</h3>
                         {data.document.creator && (
                           <span>{data.document.creator}</span>
                         )}
@@ -659,7 +659,7 @@ const ChartContainer = forwardRef(
                       </div>
                     )}
 
-                    <h1>_2</h1>
+           
              
                     {data.document.logo && (
                       <img
