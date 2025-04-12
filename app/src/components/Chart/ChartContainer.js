@@ -651,7 +651,7 @@ const ChartContainer = forwardRef(
                         alt="logo"
                         style={{ height: "7rem", width: "auto" }}
                         src={data.document.logo}
-                      /></br>
+                      />
                     )}
 {data.document.title && (
                       <div className="title-content">
