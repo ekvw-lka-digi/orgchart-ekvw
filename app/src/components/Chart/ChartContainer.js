@@ -633,7 +633,7 @@ const ChartContainer = forwardRef(
                   </svg>
                 )}
               </span>
-              {data.document && (
+             {data.document && (
                 <div className="title-container">
                   <div className="cell">
                     <Button
@@ -645,7 +645,7 @@ const ChartContainer = forwardRef(
                     >
                       Bearbeiten
                     </Button>
-                          {data.document.logo && (
+                    {data.document.logo && (
                       <img
                         id="logo"
                         alt="logo"
@@ -653,7 +653,8 @@ const ChartContainer = forwardRef(
                         src={data.document.logo}
                       />
                     )}
-{data.document.title && (
+                    <h1>TEST2</h1>
+                    {data.document.title && (
                       <div className="title-content">
                         <h1>{data.document.title}</h1>
                         {data.document.creator && (
@@ -662,10 +663,10 @@ const ChartContainer = forwardRef(
                         {data.document.version && (
                           <span> {formatDate(data.document.version)}</span>
                         )}
-
-
                       </div>
                     )}
+
+                    <h1>TEST2</h1>
                   </div>
                 </div>
               )}
