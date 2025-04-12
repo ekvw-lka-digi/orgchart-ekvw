@@ -633,7 +633,7 @@ const ChartContainer = forwardRef(
                   </svg>
                 )}
               </span>
-             {data.document && (
+            {data.document && (
                 <div className="title-container">
                   <div className="cell">
                     <Button
@@ -645,15 +645,8 @@ const ChartContainer = forwardRef(
                     >
                       Bearbeiten
                     </Button>
-                    {data.document.logo && (
-                      <img
-                        id="logo"
-                        alt="logo"
-                        style={{ height: "7rem", width: "auto" }}
-                        src={data.document.logo}
-                      />
-                    )}
-                    <h1>TEST2</h1>
+             
+                    <h1>1_</h1>
                     {data.document.title && (
                       <div className="title-content">
                         <h1>{data.document.title}</h1>
@@ -666,7 +659,17 @@ const ChartContainer = forwardRef(
                       </div>
                     )}
 
-                    <h1>TEST2</h1>
+                    <h1>_2</h1>
+             
+                    {data.document.logo && (
+                      <img
+                        id="logo"
+                        alt="logo"
+                        style={{ height: "7rem", width: "auto" }}
+                        src={data.document.logo}
+                      />
+                    )}
+             
                   </div>
                 </div>
               )}
