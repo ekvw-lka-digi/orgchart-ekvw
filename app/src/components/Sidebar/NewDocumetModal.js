@@ -89,13 +89,13 @@ const NewDocumetModal = (props) => {
         >
           <Modal.Header closeButton>
             <Modal.Title id="contained-modal-title-vcenter">
-              Neues Dokument
+              Neues Organigramm
             </Modal.Title>
           </Modal.Header>
           <Modal.Body>
             <Row>
               <Col className="mb-3">
-                <Button onClick={onCreateNew}>Neues Dokument erstellen</Button>
+                <Button onClick={onCreateNew}>Neues Organigramm erstellen</Button>
               </Col>
             </Row>
             <Row>
@@ -107,9 +107,8 @@ const NewDocumetModal = (props) => {
                     onChange={(e) => templateSelected(e)}
                   >
                     <option>Wählen Sie ein Template aus der Liste aus</option>
-                    <option value="berSen">Berliner Senatsverwaltung</option>
-                    <option value="berBez">Berliner Bezirk</option>
-                    <option value="beispielOrg">Beispiel Organisation</option>
+                    <option value="kka">Kreiskirchenamt Beispiel</option>
+                    <option value="lkaDez">Dezernat Beispiel</option>
                   </Form.Select>
                 </Form.Group>
               </Col>
