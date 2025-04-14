@@ -36,11 +36,11 @@ export default function getURI(type, str, noUrl) {
     return (
       (noUrl
         ? `${type}-`
-        : `https://berlin.github.io/lod-organigram/${type}-`) +
+        : `https://ekvw-lka-digi.github.io/lod-organigram/${type}-`) +
       generateHexCodeByString(10, str)
     );
   }
   return (
-    `https://berlin.github.io/lod-organigram/${type}-` + generateHexCode(10)
+    `https://ekvw-lka-digi.github.io/lod-organigram/${type}-` + generateHexCode(10)
   );
 }
