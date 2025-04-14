@@ -77,7 +77,7 @@ const NewDocumetModal = (props) => {
         onSave={props.openExport}
         title="Aktuelles Dokument verwerfen"
       >
-        Wenn Sie ein neues Dokument öffnen, gehen ungespeicherte Änderungen an
+        Wenn Sie ein neues Organigramm öffnen, gehen ungespeicherte Änderungen an
         ihrem aktuellen Dokument verloren. Wollen Sie das aktuelle Dokument
         speichern?
       </AlertModal>
@@ -101,7 +101,7 @@ const NewDocumetModal = (props) => {
             <Row>
               <Col className="my-1">
                 <Form.Group controlId="formFile" className="mb-3">
-                  <Form.Label>Template laden</Form.Label>
+                  <Form.Label>Vorlage laden</Form.Label>
                   <Form.Select
                     aria-label="Default select example"
                     onChange={(e) => templateSelected(e)}
@@ -117,8 +117,7 @@ const NewDocumetModal = (props) => {
               <Col>
                 <Form.Group controlId="formFile" className="mb-3">
                   <Form.Label>
-                    Bestehendes Dokument öffnen oder Datei auf die Anwendung
-                    ziehen
+                    Bestehendes Organgramm öffnen oder Datei auf die Anwendung ziehen
                   </Form.Label>
                   <Form.Control
                     onChange={(e) => onFileImportChange(e)}
