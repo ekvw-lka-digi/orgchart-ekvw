@@ -19,7 +19,7 @@
   },
   "meta": {
     "about": "This file was created using the Organigramm-Tool: an online, open source tool for creating organizational charts in PDF format, machine-readable JSON format and Linked Open Data (LOD) formats.",
-    "url": "https://github.com/technologiestiftung/organigramming-berlin"
+    "url": "https://github.com/technologiestiftung/organigramming-ekvw-lka-digi"
   },
   "organisations": [
     {
@@ -38,12 +38,12 @@
           "address": {},
           "contact": {},
           "uri": {
-            "uri": "https://berlin.github.io/lod-organigram/organisation-fba582c7f0"
+            "uri": "https://ekvw-lka-digi.github.io/lod-organigram/organisation-fba582c7f0"
           },
           "positions": [
             {
               "uri": {
-                "uri": "https://berlin.github.io/lod-organigram/position-24fde97446"
+                "uri": "https://ekvw-lka-digi.github.io/lod-organigram/position-24fde97446"
               },
               "person": {
                 "gender": "1",
@@ -52,7 +52,7 @@
                   "email": "max.muster@kka-ekvw.de"
                 },
                 "uri": {
-                  "uri": "https://berlin.github.io/lod-organigram/person-ad028e9ac0"
+                  "uri": "https://ekvw-lka-digi.github.io/lod-organigram/person-ad028e9ac0"
                 },
                 "firstName": "Max",
                 "lastName": "Muster"
@@ -65,18 +65,18 @@
             {
               "name": "Sekretariat",
               "uri": {
-                "uri": "https://berlin.github.io/lod-organigram/organisation-1c10d92515"
+                "uri": "https://ekvw-lka-digi.github.io/lod-organigram/organisation-1c10d92515"
               },
               "positions": [
                 {
                   "uri": {
-                    "uri": "https://berlin.github.io/lod-organigram/position-ee715d1bfa"
+                    "uri": "https://ekvw-lka-digi.github.io/lod-organigram/position-ee715d1bfa"
                   },
                   "person": {
                     "gender": "1",
                     "contact": { "telephone": "-454" },
                     "uri": {
-                      "uri": "https://berlin.github.io/lod-organigram/person-5ef27439d8"
+                      "uri": "https://ekvw-lka-digi.github.io/lod-organigram/person-5ef27439d8"
                     },
                     "firstName": "Marie",
                     "lastName": "Tester"
@@ -84,13 +84,13 @@
                 },
                 {
                   "uri": {
-                    "uri": "https://berlin.github.io/lod-organigram/position-61f45c33a8"
+                    "uri": "https://ekvw-lka-digi.github.io/lod-organigram/position-61f45c33a8"
                   },
                   "person": {
                     "gender": "1",
                     "contact": { "telephone": "-455" },
                     "uri": {
-                      "uri": "https://berlin.github.io/lod-organigram/person-c495509a76"
+                      "uri": "https://ekvw-lka-digi.github.io/lod-organigram/person-c495509a76"
                     },
                     "firstName": "Tim",
                     "lastName": "Tester"
@@ -117,7 +117,7 @@
           "address": {},
           "contact": {},
           "uri": {
-            "uri": "https://berlin.github.io/lod-organigram/organisation-3cf9724e09"
+            "uri": "https://ekvw-lka-digi.github.io/lod-organigram/organisation-3cf9724e09"
           },
           "suborganizationOrientation": "horizontal",
           "type": "Fachbereich",
@@ -136,7 +136,7 @@
           "address": {},
           "contact": {},
           "uri": {
-            "uri": "https://berlin.github.io/lod-organigram/organisation-a7fd977de4"
+            "uri": "https://ekvw-lka-digi.github.io/lod-organigram/organisation-a7fd977de4"
           },
           "organisations": [],
           "suborganizationOrientation": "horizontal",
@@ -156,12 +156,12 @@
           "address": {},
           "contact": {},
           "uri": {
-            "uri": "https://berlin.github.io/lod-organigram/organisation-8e19e63cb1"
+            "uri": "https://ekvw-lka-digi.github.io/lod-organigram/organisation-8e19e63cb1"
           },
           "positions": [
             {
               "uri": {
-                "uri": "https://berlin.github.io/lod-organigram/position-6a46db3082"
+                "uri": "https://ekvw-lka-digi.github.io/lod-organigram/position-6a46db3082"
               },
               "person": {
                 "gender": "1",
@@ -170,7 +170,7 @@
                   "telephone": "-453"
                 },
                 "uri": {
-                  "uri": "https://berlin.github.io/lod-organigram/person-a18405d440"
+                  "uri": "https://ekvw-lka-digi.github.io/lod-organigram/person-a18405d440"
                 },
                 "firstName": "Luca",
                 "lastName": "Leitung"
@@ -182,12 +182,12 @@
             {
               "name": "Kindertageseinrichtungen (KiTa)",
               "uri": {
-                "uri": "https://berlin.github.io/lod-organigram/organisation-4bfbd9b91b"
+                "uri": "https://ekvw-lka-digi.github.io/lod-organigram/organisation-4bfbd9b91b"
               },
               "positions": [
                 {
                   "uri": {
-                    "uri": "https://berlin.github.io/lod-organigram/position-a5cf7f6ac2"
+                    "uri": "https://ekvw-lka-digi.github.io/lod-organigram/position-a5cf7f6ac2"
                   },
                   "person": {
                     "gender": "1",
@@ -196,7 +196,7 @@
                       "email": "kita@kka-ekvw.de"
                     },
                     "uri": {
-                      "uri": "https://berlin.github.io/lod-organigram/person-505597e457"
+                      "uri": "https://ekvw-lka-digi.github.io/lod-organigram/person-505597e457"
                     },
                     "firstName": "Maxi",
                     "lastName": "Mitarbeit"
@@ -208,12 +208,12 @@
             {
               "name": "Offene Ganztagsschulen (OGS)",
               "uri": {
-                "uri": "https://berlin.github.io/lod-organigram/organisation-2f6428a237"
+                "uri": "https://ekvw-lka-digi.github.io/lod-organigram/organisation-2f6428a237"
               },
               "positions": [
                 {
                   "uri": {
-                    "uri": "https://berlin.github.io/lod-organigram/position-942b9bce11"
+                    "uri": "https://ekvw-lka-digi.github.io/lod-organigram/position-942b9bce11"
                   },
                   "person": {
                     "gender": "1",
@@ -222,7 +222,7 @@
                       "email": "ogs@kka-ekvw.de"
                     },
                     "uri": {
-                      "uri": "https://berlin.github.io/lod-organigram/person-8b7d3761b2"
+                      "uri": "https://ekvw-lka-digi.github.io/lod-organigram/person-8b7d3761b2"
                     },
                     "firstName": "Maxi",
                     "lastName": "Mitarbeit"
@@ -256,7 +256,7 @@
       "positions": [
         {
           "uri": {
-            "uri": "https://berlin.github.io/lod-organigram/position-2c056c93bf"
+            "uri": "https://ekvw-lka-digi.github.io/lod-organigram/position-2c056c93bf"
           },
           "person": {
             "gender": "1",
@@ -266,7 +266,7 @@
               "fax": "+49 521 123-7452"
             },
             "uri": {
-              "uri": "https://berlin.github.io/lod-organigram/person-6684445933"
+              "uri": "https://ekvw-lka-digi.github.io/lod-organigram/person-6684445933"
             },
             "firstName": "Alex",
             "lastName": "Muster"
@@ -275,13 +275,13 @@
         },
         {
           "uri": {
-            "uri": "https://berlin.github.io/lod-organigram/position-cf08c4fcff"
+            "uri": "https://ekvw-lka-digi.github.io/lod-organigram/position-cf08c4fcff"
           },
           "person": {
             "gender": "1",
             "contact": {},
             "uri": {
-              "uri": "https://berlin.github.io/lod-organigram/person-14cd52b222"
+              "uri": "https://ekvw-lka-digi.github.io/lod-organigram/person-14cd52b222"
             },
             "firstName": "Toni",
             "lastName": "Muster"
@@ -290,7 +290,7 @@
         },
         {
           "uri": {
-            "uri": "https://berlin.github.io/lod-organigram/position-acda2acecc"
+            "uri": "https://ekvw-lka-digi.github.io/lod-organigram/position-acda2acecc"
           },
           "person": {
             "gender": "1",
@@ -299,7 +299,7 @@
               "fax": "+49 521 123-7452"
             },
             "uri": {
-              "uri": "https://berlin.github.io/lod-organigram/person-109c3a316b"
+              "uri": "https://ekvw-lka-digi.github.io/lod-organigram/person-109c3a316b"
             },
             "firstName": "Kim",
             "lastName": "Muster"
@@ -313,7 +313,7 @@
         {
           "name": "Meldewesen",
           "uri": {
-            "uri": "https://berlin.github.io/lod-organigram/organisation-ab49366379"
+            "uri": "https://ekvw-lka-digi.github.io/lod-organigram/organisation-ab49366379"
           }
         }
       ]
@@ -341,7 +341,7 @@
       "name": "Stabstelle XY",
       "id": "n1d6d3600-215b-44c1-a8c8-8c97d72aa2c7",
       "uri": {
-        "uri": "https://berlin.github.io/lod-organigram/organisation-c62003e146"
+        "uri": "https://ekvw-lka-digi.github.io/lod-organigram/organisation-c62003e146"
       },
       "isMainOrganisation": false,
       "layout": {
